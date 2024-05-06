@@ -23,7 +23,7 @@ The following conclusions were drawn:
 3. Year-wise highest-rated movie is provided in the graph, which you can check out in the images folder. 
 4. Year-wise highest-voted movie is provided in the graph, which you can check out in the images folder. 
 
-## The Analysis :chart_with_upwards_trend:
+## The Analysis 
 I used Python along with various data visualization libraries to explore the IMDb ratings and voting data and identify the best Bollywood movies across different years. 
 
 Stay tuned for more insights and visualizations!
