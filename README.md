@@ -1,21 +1,21 @@
-# MovieAnalysis :clapper:
+# MovieAnalysis 
 
 This is an analysis of the highest-rated and highest-voted Bollywood movies from the year 1950 to 2019.
 
-## Welcome! :wave:
+## Welcome! 
 Thanks for checking out this data analysis project on Bollywood movies. 
 
 To do this challenge, we need a basic understanding of Python, Jupyter Notebook, NumPy, Pandas, Seaborn, and Matplotlib. 
 
-## The Challenge :muscle:
+## The Challenge 
 My challenge was to analyze the IMDb voting and ratings of Bollywood movies and identify the best ones. 
 
-## The Data :floppy_disk:
+## The Data 
 Before we proceed, let's take a look at the data we'll be working with:
 
 - `IndiaMovieDatabase`: This folder contains information about Bollywood movies from the year 1950 to 2019 in multiple csv files which includes columns like 'Title', 'Year', 'Rating', and 'Votes'.
 
-## The Conclusion :mag_right:
+## The Conclusion 
 The following conclusions were drawn: 
 
 1. Top-rated Bollywood movie of all time is "Family of Thakurganj" with a rating of 9.4.
